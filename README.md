@@ -1,3 +1,14 @@
+1. install node js
+2. install vs code
+3. Open project folder in vs code
+4. Open terminal and type npm install
+5. and type npx wdio
+6. Open command prompt To genearte allure report
+   * npm install -g allure-commandline --save-dev
+   * allure generate allure-results --clean && allure open 
+
+
+
 /*===================================================================================================================
 WebdriverIO setup (From Scratch)
 =====================================================================================================================/*
