@@ -1,3 +1,7 @@
+
+/*===================================================================================================================
+WebdriverIO setup (From Scratch)
+=====================================================================================================================/*
 1. install node js
 2. install vs code
 3. Open project folder in vs code
@@ -7,11 +11,6 @@
    * npm install -g allure-commandline --save-dev
    * allure generate allure-results --clean && allure open 
 
-
-
-/*===================================================================================================================
-WebdriverIO setup (From Scratch)
-=====================================================================================================================/*
 
 Install Node.js (https://nodejs.org/en/ )
 Run following to make sure node is installed 
